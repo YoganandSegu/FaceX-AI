@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Output files
+outputs/
+captured_faces/
+
+# Videos
+*.mp4
+*.avi
+
+# JSON output
+*.json
+
+# OS files
+.DS_Store
+Thumbs.db
